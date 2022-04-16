@@ -1,0 +1,42 @@
+body {
+    background-image: linear-gradient(#82c676, #76c6ad, #82c676 );
+    
+}
+
+h1 {
+    text-align: center;
+}
+
+.form-section {
+    background-color: #fafafa;
+    box-shadow: 10px 10px 10px 10px rgb(58, 58, 58);
+    padding: 5%;
+    border-radius: 10px;
+    width: 25%;
+    margin: auto;
+    font-weight: bold;
+    
+}
+
+input {
+    border-radius: 10px;
+    background-color: #ffeb3b94;
+    color: #e74444;
+    width: 100px;
+}
+
+button {
+    background-color: transparent;
+    font-weight: bold;
+    padding: 10px;
+    border-radius: 10px;
+    margin-left: 18%;
+
+}
+
+.list-section {
+    margin-left: 32%;
+    margin-top: 100px;
+    
+}
+
